@@ -3,17 +3,33 @@ title: Adhithya Bhaskar
 enableToc: true
 ---
 
-Test
+Hi! I am a PhD student in the [ISE department](https://ise.usc.edu/) at the University of Southern California. 
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+[You can find my resume here]()
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+## Publications
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+> [!SUMMARY]- Learning from reproducing computational results: introducing three principles and the Reproduction Package.
+> 
+> - Matthew Krafczyk, August Shi, **Adhithya Bhaskar**, Darko Marinov and Victoria Stodden. 2021. Philosophical Transactions of the Royal Society A. 3792020006920200069.
+> - **[doi/10.1098/rsta.2020.0069](https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0069)**
 
+> [!SUMMARY]- Scientific Tests and Continuous Integration Strategies to Enhance Reproducibility in the Scientific Software Context
+>
+> - Matthew Krafczyk, August Shi, **Adhithya Bhaskar**, Darko Marinov and Victoria Stodden. 2019. In Proceedings of the 2nd International Workshop on Practical Reproducible Evaluation of Computer Systems (P-RECS '19). ACM, New York, NY, USA, 23-28.
+> - **[doi/10.1145/3322790.3330595](https://dl.acm.org/doi/10.1145/3322790.3330595)**
+
+> [!SUMMARY]- An Empirical Evaluation of Computational Reproducibility 
+> 
+> - Victoria Stodden, Matthew S. Krafczyk, and **Adhithya Bhaskar**. 2018. Enabling the Verification of Computational Results: In Proceedings of the First International Workshop on Practical Reproducible Evaluation of Computer Systems (P-RECS'18). ACM, New York, NY, USA, Article 3, 5 pages.
+> - **[doi/10.1145/3214239.3214242](https://dl.acm.org/doi/10.1145/3214239.3214242)**
+
+## Awards
+
+> [!tip]- Outstanding Teaching Assistant of the year
+> 
+> - Daniel J. Epstein Department of Industrial and Systems Engineering
+> - 2022-2023
+
+## [[notes/links|My Links]]

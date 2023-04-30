@@ -24,5 +24,11 @@ page_title:
 links:
   - link_name: GitHub
     link: https://github.com/adbx
-  - linkedin_name: LinkedIn
-    linkedin: https://www.linkedin.com/in/adhithyab/
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/adhithyab/
+  - link_name: Google Scholar
+    link: https://scholar.google.com/citations?user=frIOiWQAAAAJ&hl=en
+  - link_name: Youtube
+    link: https://www.youtube.com/channel/UCNp1OwujLnADBUBInQBQp-w
+  - link_name: Flickr
+    link: https://www.flickr.com/photos/adb16x/
