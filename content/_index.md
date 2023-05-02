@@ -1,12 +1,12 @@
 ---
 title: Adhithya Bhaskar
-enableToc: true
 ---
 
-Hi! I am a PhD student in the [ISE department](https://ise.usc.edu/) at the University of Southern California. 
+Hi there! I am a PhD student in the [ISE department](https://ise.usc.edu/) at the University of Southern California advised by [Dr. Victoria Stodden](https://www.stodden.net/). 
 
+My research focuses on developing metrics and tools that facilitate **transparent** and **verifiable** machine learning research, with an emphasis on promoting computational **reproducibility** through open code and data standards. 
 
-[You can find my resume here]()
+<a href="attachments/resume.pdf">You can find my resume here</a>
 
 ## Publications
 
@@ -27,9 +27,20 @@ Hi! I am a PhD student in the [ISE department](https://ise.usc.edu/) at the Univ
 
 ## Awards
 
+> [!tip]- Jenny Wang Excellence in Teaching Award
+> 
+> - Viterbi School of Engineering
+> - May 1, 2023
+
 > [!tip]- Outstanding Teaching Assistant of the year
 > 
 > - Daniel J. Epstein Department of Industrial and Systems Engineering
 > - 2022-2023
 
-## [[notes/links|My Links]]
+## Find me on the web
+
+- [GitHub](https://github.com/adbX)
+- [LinkedIn](https://www.linkedin.com/in/adhithyab/)
+- [Google Scholar](https://scholar.google.com/citations?user=frIOiWQAAAAJ&hl=en)
+- [YouTube](https://www.youtube.com/channel/UCNp1OwujLnADBUBInQBQp-w)
+- [Flickr](https://www.flickr.com/photos/adb16x/)
