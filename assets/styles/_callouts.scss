@@ -26,8 +26,8 @@
 }
 
 [saved-theme=dark] {
-  --callout-summary: #00b0ff !important;
-  --callout-summary-accent: #00587f !important;
+  --callout-summary: #53D8FB !important;
+  --callout-summary-accent: #1C3A59  !important;
   --callout-bug: #f50057 !important;
   --callout-bug-accent: #7a002b !important;
   --callout-danger: #ff1744 !important;
@@ -46,8 +46,8 @@
   --callout-quote-accent: #4f4f4f !important;
   --callout-done: #00c853 !important;
   --callout-done-accent: #006429 !important;
-  --callout-important: #00bfa5 !important;
-  --callout-important-accent: #005f52 !important;
+  --callout-important: #7BC559 !important;
+  --callout-important-accent: #003D35 !important;
   --callout-warning: #ff9100 !important;
   --callout-warning-accent: #7f4800 !important;
 }
@@ -171,4 +171,9 @@ $svgs: map-merge($svgs, ($warning: url("data:image/svg+xml,%3Csvg aria-hidden='t
       }
     }
   }
+}
+
+/* Add this new class at the end of your SCSS file */
+blockquote[class*="-callout"] > p:first-child {
+  font-weight: normal;
 }
