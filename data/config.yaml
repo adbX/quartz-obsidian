@@ -1,0 +1,34 @@
+name: Adhithya Bhaskar
+enableToc: false
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+enableMermaid: true
+GitHubLink: https://github.com/adbx/quartz-obsidian/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+description:
+  Adhithya Bhaskar
+page_title:
+  "Adhithya Bhaskar"
+links:
+  - link_name: GitHub
+    link: https://github.com/adbx
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/adhithyab/
+  - link_name: Google Scholar
+    link: https://scholar.google.com/citations?user=frIOiWQAAAAJ&hl=en
+  - link_name: Youtube
+    link: https://www.youtube.com/channel/UCNp1OwujLnADBUBInQBQp-w
+  - link_name: Flickr
+    link: https://www.flickr.com/photos/adb16x/
