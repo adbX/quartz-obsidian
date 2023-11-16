@@ -4,9 +4,11 @@ title: Adhithya Bhaskar
 
 Hi there! I am a PhD student in the [ISE department](https://ise.usc.edu/) at the University of Southern California advised by [Dr. Victoria Stodden](https://www.stodden.net/). 
 
-My research focuses on developing metrics and tools that facilitate **transparent** and **verifiable** machine learning research, with an emphasis on promoting computational **reproducibility** through open code and data standards. 
+My research focuses on developing metrics and tools that facilitate **transparent** and **verifiable** machine learning research, with an emphasis on promoting computational **reproducibility** through open code and data standards.
 
-[You can find my resume here](attachments/resume.pdf)
+I am working on [ReproScreener](https://www.reproscreener.com), a tool to automate and enable the verification of computational reproducibility in machine learning at scale.
+
+[You can find my resume here](https://github.com/adbX/quartz-obsidian/blob/v4/content/attachments/resume.pdf)
 
 ## Publications
 
